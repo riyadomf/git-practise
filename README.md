@@ -15,3 +15,5 @@ jogoter sokol manus mara khak
 
 
 # Pull vs fetch2
+
+My git my choice
