@@ -6,6 +6,14 @@ main branch changes
 
 # final-stash practise
 
+
+jogoter sokol manus mara khak
+
+
+
+jogoter sokol manus mara khak
+
+
 # Pull vs fetch2
 
 # aPOCALYPSE
