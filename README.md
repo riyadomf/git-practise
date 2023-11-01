@@ -27,3 +27,5 @@ Fetch hobe ki?
 Voy hoy, jodi fetch hoy.
 
 Fetch korar age jodi dei "git status", Remote commit r news ta hobe ki pass?git
+
+Hello from Mujul nana - stash1
