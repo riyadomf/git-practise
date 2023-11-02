@@ -31,3 +31,6 @@ Fetch korar age jodi dei "git status", Remote commit r news ta hobe ki pass?git
 Hello from Mujul nana - stash1
 
 Pop from Ajul papa - stash2
+
+Pop from Ajul papa - stash2
+Yell from Afjul chacha - stash3
